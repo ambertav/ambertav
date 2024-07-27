@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ambertav GitHub stats](https://github-readme-stats-ambertavs-projects.vercel.app/api?username=ambertav&custom_title=Amber%20Taveras'%20GitHub%20Stats&theme=rose)
+
+
+![Ambertav Top Langs](https://github-readme-stats-ambertavs-projects.vercel.app/api/top-langs/?username=ambertav&hide=ejs,html,css,mako,procfile,scss&theme=rose)
