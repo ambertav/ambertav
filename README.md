@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="right">
   <img src="https://github-readme-streak-stats-1-nine.vercel.app?user=ambertav&theme=shadow-red&" alt="Ambertav GitHub Streak" /><br />
   <br />
-  <img src="https://github-readme-stats-ambertavs-projects.vercel.app/api/top-langs/?username=ambertav&hide=ejs,html,css,mako,procfile,scss,javascript,cmake&theme=shadow_red" alt="Ambertav Top Langs" />
+  <img src="https://github-readme-stats-ambertavs-projects.vercel.app/api/top-langs/?username=ambertav&hide=ejs,html,css,mako,procfile,scss,javascript,cmake,dockerfile&theme=shadow_red" alt="Ambertav Top Langs" />
 </p>
 
 
