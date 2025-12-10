@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,postgres,mongodb,docker,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,postgres,docker,aws,linux&theme=dark" />
   </a>
 </p>
 
 <p align="right">
   <img src="https://github-readme-streak-stats-1-nine.vercel.app?user=ambertav&theme=shadow-red&" alt="Ambertav GitHub Streak" /><br />
   <br />
-  <img src="https://github-readme-stats-ambertavs-projects.vercel.app/api/top-langs/?username=ambertav&hide=ejs,html,css,mako,procfile,scss,javascript,java,cmake,dockerfile&theme=shadow_red" alt="Ambertav Top Langs" />
 </p>
 
 
