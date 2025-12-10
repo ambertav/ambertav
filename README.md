@@ -1,29 +1,12 @@
-## Hi there 👋
+## Hello World
+- C++ Engineer
+- Exploring systems programming and game development
+- Building projects with C#, Python, and TypeScript
+- Currently working in Go and Rust
+- Weightlifter and sudoku hobbyist
 
-<!--
-**ambertav/ambertav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,postgres,docker,aws,linux&theme=dark" />
   </a>
 </p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats-1-nine.vercel.app?user=ambertav&theme=shadow-red&" alt="Ambertav GitHub Streak" /><br />
-  <br />
-</p>
-
-
