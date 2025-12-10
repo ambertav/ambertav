@@ -1,9 +1,9 @@
-## Hello World
-- C++ Engineer
-- Exploring systems programming and game development
-- Building projects with C#, Python, and TypeScript
-- Currently working in Go and Rust
-- Weightlifter and sudoku hobbyist
+## Hello, World!
+- `c++` engineer
+- exploring systems programming and game development
+- building projects with `c#`, `python`, and `typescript`
+- currently working in `go` and `rust`
+- weightlifter and sudoku hobbyist
 
 <p align="center">
   <a href="https://skillicons.dev">
