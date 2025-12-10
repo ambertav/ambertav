@@ -5,7 +5,10 @@
 - currently working in `go` and `rust`
 - weightlifter and sudoku hobbyist
 
-<p align="center">
+<br />
+<br />
+
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,postgres,docker,aws,linux&theme=dark" />
   </a>
