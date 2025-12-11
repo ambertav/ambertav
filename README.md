@@ -1,8 +1,8 @@
 ## Hello, World!
 - `c++` engineer
+- building with `c++` and `c#`
+- familiar with `python` and `typescript`
 - exploring systems programming and game development
-- building projects with `c#`, `python`, and `typescript`
-- currently working in `go` and `rust`
 - weightlifter and sudoku hobbyist
 
 <br />
