@@ -1,7 +1,7 @@
 ## Hello, World!
 - `c++` engineer
 - building with `c++` and `rust`
-- familiar with `python` and `typescript`
+- experienced in `python` and `typescript`
 - exploring systems programming and game development
 - weightlifter and sudoku hobbyist
 
