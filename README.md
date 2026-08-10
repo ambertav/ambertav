@@ -1,15 +1,12 @@
 ## Hello, World!
 - `c++` engineer
-- building with `c++` and `rust`
-- experienced in `python` and `typescript`
-- exploring systems programming and game development
+- building with `c++` and `python`
 - weightlifter and sudoku hobbyist
 
-<br />
 <br />
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,postgres,docker,aws,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,postgres,linux&theme=dark" />
   </a>
 </p>
